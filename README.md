@@ -171,6 +171,11 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 
 * [UK Data Protection Act of 2018](http://www.legislation.gov.uk/ukpga/2018/12/contents/enacted) - The DPA 2018 enacts the GDPR into UK Law, however in doing so has included various "derogations" as permitted by the GDPR, resulting in some key differenced (which although small are not of insignificance impact and may have a greater impact after Brexit).
 * [The Information Commissioner's Office guide to Data Protection](https://ico.org.uk/for-organisations/guide-to-data-protection/) - This guide is for data protection officers and others who have day-to-day responsibility for data protection. It is aimed at small and medium-sized organisations, but it may be useful for larger organisations too.
+* 
+### Canada - Federal Government
+
+* [Directive on Automated Decision-Making] (https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592) - The Government of Canada is increasingly looking to use artificial intelligence to make or support administrative decisions to improve service delivery. The government is committed to using artificial intelligence in a manner that is compatible with core principles of administrative law such as transparency, accountability, legality, and procedural fairness. Understanding that this technology is changing rapidly, this directive will continue to evolve to ensure that it remains relevant.
+* [Guide on the Use of Generative Artificial Intelligence 2023] (https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html) - Federal institutions should explore how they could use generative AI tools to support their operations and improve outcomes for Canadians. However, given the challenges and concerns relating to these tools, institutions should assess and mitigate risks and should restrict their use to activities where they can manage the risks effectively. Given the growing adoption of these technologies in different sectors and by the public, their use in government will help keep pace with the evolving digital landscape.
 
 
 
