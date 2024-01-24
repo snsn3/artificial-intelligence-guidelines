@@ -1,4 +1,4 @@
-[![Awesome](images/awesome.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](images/awesome.svg)](https://github.com/sindresorhus/awesome)[![Awesome](images/awesome.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines/graphs/commit-activity)
 ![GitHub](https://img.shields.io/badge/Release-PROD-yellow.svg)
 ![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg)
@@ -52,6 +52,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 
 ## High Level Frameworks and Principles
 
+* [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence]([https://ethical.institute/principles.html](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)) - By The White House.
 * [AI & Machine Learning 8 principles for Responsible ML](https://ethical.institute/principles.html) - The Institute for Ethical AI & Machine Learning has put together 8 principles for responsible machine learning that are to be adopted by individuals and delivery teams designing, building and operating machine learning systems.
 * [An Evaluation of Guidelines - The Ethics of Ethics](https://arxiv.org/ftp/arxiv/papers/1903/1903.03425.pdf) - A research paper that analyses multiple Ethics principles
 * [Association for Computer Machinery's Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics) - This is the code of ethics that has been put together in 1992 by the Association for Computer Machinery and updated in 2018. The Code is designed to inspire and guide the ethical conduct of all computing professionals, including current and aspiring practitioners, instructors, students, influencers, and anyone who uses computing technology in an impactful way. Additionally, the Code serves as a basis for remediation when violations occur. The Code includes principles formulated as statements of responsibility, based on the understanding that the public good is always the primary consideration.
